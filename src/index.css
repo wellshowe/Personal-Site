@@ -1,0 +1,54 @@
+:root {
+  --bg: #fcfaff;
+  --bg-panel: #e9dcf1;
+  --ink: #2c1f35;
+  --plum: #5b3766;
+  --mauve: #8a6d95;
+  --hairline: #c9b7d6;
+
+  --font-serif: "Times New Roman", Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-serif);
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--plum);
+  outline-offset: 3px;
+}
