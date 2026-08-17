@@ -4,27 +4,29 @@ export default function About() {
       <h2 className="panel-title">About</h2>
       <p>
         I grew up in Atlanta and I'm now studying Computer Science at UCLA,
-        Class of 2028. I came to CS because I was fascinated by how
-        things get built, but I've realized what I actually want isn't to
-        write the code myself, it's to sit at the table where a team
-        decides what to build and why.
+        Class of 2028. I came to CS because I wanted to understand how
+        technology is built, but over time I've become just as interested
+        in the decisions around it: what should be built, who it's for,
+        and how it fits into a larger business.
       </p>
       <p>
-        Studying CS means I can read a technical roadmap and talk to
-        engineers in their own language, but my instincts run toward the
-        user, the business case, and the story that makes a product worth
-        building. That combination is what pulls me toward roles where technical fluency is an
-        asset, but the real work is people, judgment, and communication.
+        That's shaped the experience I've pursued outside the classroom.
+        I've built and deployed software, worked in product marketing at
+        Applied Systems, used AI to improve real business workflows,
+        managed financial operations at a technology company, and worked
+        on a consulting strategy for LAX. Studying CS gives me the
+        technical foundation to understand engineers, systems, and
+        implementation, while my instincts tend to run toward the user,
+        the product, and how an idea gets communicated.
       </p>
       <p>
-        Before college I ran cross country and played varsity lacrosse,
-        which is probably where I picked up the instinct to care about
-        pace and small daily improvements over any single big win. I
-        edited my high school's yearbook, which taught me a lot about
-        deadlines, layout, and getting a group of people to agree on
-        something visual. Outside of work I'm drawn to graphic design and
-        UI/UX, spending time outdoors and hiking, and figuring out how AI
-        tools are changing the way people actually get work done.
+        Outside of work, I've always had a mix of technical and creative
+        interests. I grew up running cross country and playing varsity
+        lacrosse, served as Editor-in-Chief of my high school yearbook,
+        and now stay involved at UCLA through Kappa Kappa Gamma. I'm also
+        interested in graphic design, UI/UX, beauty, hiking, travel, and
+        how new technology (especially AI) is changing the way people
+        actually work.
       </p>
     </section>
   )
