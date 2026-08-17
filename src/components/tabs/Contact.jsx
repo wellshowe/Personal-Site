@@ -25,7 +25,7 @@ export default function Contact() {
   return (
     <section className="panel">
       <h2 className="panel-title">Contact</h2>
-      <p>The fastest way to reach me is email - happy to exchnage some fun facts :)</p>
+      <p>The fastest way to reach me is email - happy to exchange some fun facts :)</p>
       <ul className="contact-list">
         {LINKS.map((link) => (
           <li key={link.label}>
