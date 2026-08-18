@@ -3,7 +3,7 @@ const FACTS = [
   `My mom passed down her love of ice cream and TV. Cookie dough and sugar cookie are my go-tos.`,
   `Favorite TV: Friends, Legally Blonde, Gilmore Girls, and Bridesmaids.`,
   `I love to go for walks with peach matcha`,
-  `I love tubing, wake surfing, wakeboarding, and a game my friends call "the dolphin" (hang onto a rope in the wake and just get dragged behind the boat.`,
+  `I love tubing, wake surfing, wakeboarding, and a game my friends call "the dolphin" (hang onto a rope in the wake and just get dragged behind the boat.)`,
   `Favorite book series: The Selection.`,
 ]
 
